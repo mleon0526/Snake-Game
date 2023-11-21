@@ -1,0 +1,47 @@
+#gameDiv {
+    text-align: center;
+}
+
+#gameSpace {
+    border: 2px solid black;
+    margin-bottom: 75px;
+    border: 2px solid white;
+    box-shadow: 2px 2px 5px white;;
+}
+
+#gameScore {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    color: white;
+}
+
+#restartButton {
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 130px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+#startButton {
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 130px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+
+}
+
+#buttons {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+body {
+    overflow: hidden;
+    background-color: #4B4A4B;
+}
